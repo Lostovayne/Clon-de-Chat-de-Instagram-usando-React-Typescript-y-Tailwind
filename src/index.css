@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.custom-grid {
+    @apply grid grid-cols-2;
+    grid-template-columns: 470px 1fr;
+    height: 100vh;
+}
