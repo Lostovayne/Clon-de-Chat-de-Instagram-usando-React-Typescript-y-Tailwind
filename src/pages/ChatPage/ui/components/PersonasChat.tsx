@@ -8,13 +8,13 @@ export const PersonasChat = () => {
             <CardPersona
                 nombre="Epsain"
                 texto="Holi como estas? que andas haciendo? ❤️ "
-                className="text-black font-semibold"
+                className="text-black font-bold"
             />
             <CardPersona nombre="Maho" texto="Mery que haces?" imagen={imagen1} />
             <CardPersona nombre="Mandoquero" texto=" Nos periqueamos o que parce? " />
             <CardPersona nombre="Matias" texto="y si me van a hacer o qué? " />
-            <CardPersona nombre="Matias" texto="y si me van a hacer o qué? " />
-            <CardPersona nombre="Matias" texto="y si me van a hacer o qué? " />
+            <CardPersona nombre="Romina Snati" texto="y si me van a hacer o qué? " />
+            <CardPersona nombre="William Rojas" texto="y si me van a hacer o qué? " />
             <CardPersona nombre="Matias" texto="y si me van a hacer o qué? " />
             <CardPersona nombre="Matias" texto="y si me van a hacer o qué? " />
             <CardPersona nombre="Matias" texto="y si me van a hacer o qué? " />

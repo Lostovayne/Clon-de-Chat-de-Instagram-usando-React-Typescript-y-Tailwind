@@ -4,7 +4,7 @@ const App = () => {
     return (
         <div className="custom-grid">
             <Ui className="" />
-            <Chat className="" />
+            <Chat className="hidden md:flex " />
         </div>
     );
 };

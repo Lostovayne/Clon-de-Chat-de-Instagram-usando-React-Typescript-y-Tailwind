@@ -29,7 +29,7 @@ const ArrayMenu: Arrayprops = {
 
 export const Sidebar = () => {
     return (
-        <nav className="max-w-[73px] w-full border-r border-gray-300 h-screen flex flex-col justify-between ">
+        <nav className=" hidden md:flex  max-w-[73px] w-full border-r border-gray-300 h-screen  flex-col justify-between ">
             <ul className="py-[28px] ">
                 <ListItem className="mb-[40px]">
                     <InstagramLogo />
