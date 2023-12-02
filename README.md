@@ -1,4 +1,7 @@
-# React + TypeScript + Vite
+# Clon de Chat de Instagram usando React Typescript y Tailwind
+
+![screencapture-instagramclone-tailwind-vercel-app-2023-12-02-05_39_54](https://github.com/Lostovayne/Clon-de-Chat-de-Instagram-usando-React-Typescript-y-Tailwind/assets/92962731/26714d90-eb37-4369-b4ae-7f13c79c0fb0)
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
